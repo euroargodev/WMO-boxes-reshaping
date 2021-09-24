@@ -28,7 +28,7 @@ function []=WMO_boxes_reshaped(path_1,EL,NL,WMOB)
 %    2) You have to set up the WMO boxes geographical limits.
 %       EL=[min lon, max lon]; 
 %       NL=[min lat, max lat]; 
-%       12 WMO boxes are used to cover the Med % Black Sea area whose limits
+%       12 WMO boxes are used to cover the Med and Black Sea area whose limits
 %       are: EL=[-10 50]; NL=[30 50];
 %
 %    3) You have to set up the WMO boxes numbers. 
