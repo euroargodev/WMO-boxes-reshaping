@@ -3,7 +3,7 @@ WMO boxes used in OWC are reshaped according to the dimensions of selected sub-b
 
 DESCRIPTION:
 
-    CTD profiles are grouped per sub-basins of the Mediterranean and Black Seas. 
+    CTD profiles are grouped per sub-basins. 
     WMO boxes used in OWC are re-shaped according to the dimension of the sub-basins. 
     WMO boxes dimensions could be too large for OWC application in marginal seas.
     The WMO boxes reshaping is useful to avoid selecting historical data for 
